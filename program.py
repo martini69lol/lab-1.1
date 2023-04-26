@@ -1,2 +1,2 @@
 def b_sorter(array):
-    pass
+    length = len(array)
